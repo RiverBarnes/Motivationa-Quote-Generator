@@ -1,1 +1,1 @@
-# Motivationa-Quote-Generator
+# Motivational-Quote-Generator
