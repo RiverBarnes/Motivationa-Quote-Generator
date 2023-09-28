@@ -9,3 +9,5 @@ const quotes = [
 "Aim for the moon. If you miss, you may hit a star. — W. Clement Stone",
 "If you cannot do great things, do small things in a great way. — Napoleon Hill",
 "Success only comes to those who dare to attempt.— Mallika Tripathi"];
+
+var RanNum = Mathfloor(Mathrandom() * (quotes.length));
