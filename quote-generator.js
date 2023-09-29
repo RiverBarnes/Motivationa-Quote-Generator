@@ -11,7 +11,7 @@ const quotes = [
 "Success only comes to those who dare to attempt.— Mallika Tripathi"];
 
 function newQuote() {
-const ranNum = Math.floor(Math.random() * (quotes.length));
+var ranNum = Math.floor(Math.random() * (quotes.length));
 
-document.getElementById('quoteDisplay').innnerHTML = quotes[ranNum]
+document.getElementById('quoteDisplay').innnerHTML = quotes[ranNum];
 }
